@@ -1,0 +1,19 @@
+.title{
+    border:solid;
+    background-color: red;
+    color:green;
+    
+    display:flex;
+}
+h1{
+    color:rgb(43, 226, 80);
+}
+.about{
+    color:brown;
+    display:flex;
+    border:solid;
+    background-color: cornflowerblue;
+}
+p{
+    color:rgb(199, 110, 38)
+}
